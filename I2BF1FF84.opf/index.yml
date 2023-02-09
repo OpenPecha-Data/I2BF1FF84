@@ -1,0 +1,11 @@
+id: 839ea274516b476ea0495af0f1a95ad9
+annotation_type: index
+revision: '00001'
+annotations:
+  b1eecbae1cb94b618d8762eab8fb7560:
+    base: AED2.txt
+    Chapters:
+    - title: Māṇavikā
+      span:
+        start: 0
+        end: 37553

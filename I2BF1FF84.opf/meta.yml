@@ -1,0 +1,16 @@
+id: I2BF1FF84
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-10 00:18:00.577488
+last_modified: 2023-02-10 00:18:00.577665
+source_metadata:
+  title: 'MSV 6,09: Māṇavikā'
+  language: bo
+bases:
+  AED2:
+    base_file: AED2.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
